@@ -3,11 +3,23 @@
 <img src="https://camo.githubusercontent.com/beb0b377380084d9906e6c317706af49db4463f2fd37818cb7758bd21f5867ed/68747470733a2f2f64726976652e6c756c7a622e696e2f66696c652e7068703f713d363336386165616263663838312e706e672367682d6461726b2d6d6f64652d6f6e6c79" height=130 width=130>
 </div>
 
+<div align=center>
+<img src="https://raw.githubusercontent.com/XeSoftworks/Quark/main/quark.webp?token=GHSAT0AAAAAABXA6SQWRGHU4KLWVK3JNSUYY3I2BDQ" height=200 width=200>
 
-# Quark
+<h1> Quark </h1>
 Quark is an enterprise Discord multitool/AIO wrapper and framework for automating Discord accounts.
 
 Quark is developed by Xe Softworks, and maintained by Xe Softworks. For more info, visit [xesoft.works](https://xesoft.works)
+
+</div>
+
+
+
+
+
+<hr> 
+
+
 
 # Basic Examples
 ### Sending a message
