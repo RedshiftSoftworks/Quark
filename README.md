@@ -4,7 +4,7 @@
 </div>
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/XeSoftworks/Quark/main/quark.webp?token=GHSAT0AAAAAABVEYEPFKCUIIOC7N6U6LXVOY3JXHJQ" height=200 width=200>
+<img src="https://files.catbox.moe/r9wl2o.webp" height=200 width=200>
 
 <h1> Quark </h1>
 Quark is an enterprise Discord multitool/AIO wrapper and framework for automating Discord accounts.
