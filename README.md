@@ -6,7 +6,7 @@
 <h1> Quark </h1>
 Quark is an enterprise Discord multitool/AIO wrapper and framework for automating Discord accounts.
 
-Quark is developed by Xe Softworks, and maintained by Xe Softworks. For more info, visit [xesoft.works](https://xesoft.works)
+Quark is developed by [Redshift Softworks](https://0day.cfd)
 
 </div>
 
